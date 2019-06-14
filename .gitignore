@@ -1,0 +1,5 @@
+*.csv
+*.sqlite3
+*.sqlite3-journal
+Mod3_Final_Project-Copy1.ipynb
+.ipynb_checkpoints/
